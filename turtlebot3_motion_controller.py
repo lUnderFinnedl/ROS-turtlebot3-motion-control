@@ -1,6 +1,5 @@
 #!usr/bin/env python
 
-#Evaggelos Karavas AM: 2119221
 import rospy
 import math
 from geometry_msgs.msg import Twist
