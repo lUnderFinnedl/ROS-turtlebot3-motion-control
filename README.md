@@ -1,5 +1,5 @@
 # ROS-turtlebot3-motion-control
-ROS python script moving the robot from points 0,0,0 to 2,2,0 to 4,4,0 to 6,6,0 and lastly 8,8,0 using a unicycle robot control which is shown down below.
+ROS (Melodic) python script moving the robot from points 0,0,0 to 2,2,0 to 4,4,0 to 6,6,0 and lastly 8,8,0 using a unicycle robot control which is shown down below.
 
 [Autonomous_Robotic_Vehicles_Motion_Control.pdf](https://github.com/lUnderFinnedl/ROS-turtlebot3-motion-control/files/11408510/Autonomous_Robotic_Vehicles_Motion_Control.pdf)
 
